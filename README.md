@@ -1,4 +1,4 @@
-# Udacity_nanodegree_program_ABtest
+# AB test
 
 Project: Helping an online company to decide whether they should launch their new page or no.
 A/B tests are very commonly performed by data analysts and data scientists. It is important that you get some practice working with the difficulties of this kind of experiment due to its frequency of use.
